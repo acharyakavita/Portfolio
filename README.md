@@ -15,11 +15,17 @@ This webpage was created specifically for [Udacity's Front End Developer Develop
 * HTML
 * CSS
 
-**References & Image courtesy:*** Unsplash*Udacity*W3schools*stack overflow.**Testing The Web Page:**
+**References & Image courtesy:**
+1.Unsplash
+2.Udacity
+3.W3schools
+4.stack overflow.
+
+**Testing The Web Page:**
 
 * Download the project to your computer.
 * Right click and open the html file with Google Chrome browser.
 
 **Closing:**
 
-In conclusion, I have learned a lot by working on this project. I am confident that I have mastered HTML, as well as CSS and am able to successfully create web pages using different features.
+In conclusion, I have learned a lot by working on this project. I am confident that I have mastered HTML, as well as CSS and I am able to successfully create web pages using different features.
