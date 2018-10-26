@@ -7,8 +7,6 @@ This webpage was created specifically for [Udacity's Front End Developer Develop
 **The application offers the following features:**
 
 * Creating a web page that acts as a portfolio sites featuring my current and future projects.
-* Bold/Italiacs
-* Image Views
 
 **Technologies Used In Application:**
 
