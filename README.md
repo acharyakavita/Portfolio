@@ -14,10 +14,10 @@ This webpage was created specifically for [Udacity's Front End Developer Develop
 * CSS
 
 **References & Image courtesy:**
-1.Unsplash
-2.Udacity
-3.W3schools
-4.stack overflow.
+* Unsplash
+* Udacity
+* W3schools
+* stack overflow.
 
 **Testing The Web Page:**
 
